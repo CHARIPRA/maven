@@ -30,12 +30,12 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-					<cloudHubDeployment>
-						<uri>https://anypoint.mulesoft.com</uri>
+<cloudHubDeployment>
+<uri>https://anypoint.mulesoft.com</uri>
 <muleVersion>4.4.0</muleVersion>
 <username>CHARIPRA</username>
 <password>YBM!cd*794</password>
-<applicationName>maven</applicationName>
+<applicationName>Jenkins-trial</applicationName>
 <environment>Sandbox</environment>
 <workers>1</workers>
 <workerType>MICRO</workerType>

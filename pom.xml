@@ -35,7 +35,7 @@
 <muleVersion>4.4.0</muleVersion>
 <username>CHARIPRA</username>
 <password>YMB!cd*794</password>
-<applicationName>am-sample-testing</applicationName>
+<applicationName>maven</applicationName>
 <environment>Sandbox</environment>
 <workers>1</workers>
 <workerType>MICRO</workerType>
